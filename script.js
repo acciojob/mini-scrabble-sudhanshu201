@@ -7,3 +7,4 @@ textbox.addEventListener("input", function() {
   letterCount.innerHTML = textbox.value.length;
 });
 
+
